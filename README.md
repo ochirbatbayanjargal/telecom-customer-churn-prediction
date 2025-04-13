@@ -1,3 +1,11 @@
+## Interactive Code Execution
+
+The main Python file uses Jupyter-style cell notation (`# %%`) to divide the code into logical sections. This allows for interactive, cell-by-cell execution in compatible editors:
+
+1. **VS Code**: Open the file in VS Code with the Python extension installed to see cell divisions and run each cell separately
+2. **Cursor**: Open in Cursor to execute code blocks individually 
+3. **PyCharm**: Open in PyCharm with the Jupyter plugin
+
 # Telecom Customer Churn Prediction
 
 ## Project Overview
