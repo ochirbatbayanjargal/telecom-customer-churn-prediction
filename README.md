@@ -135,7 +135,7 @@ Implementation of the model-based retention strategy is estimated to:
 - More granular customer segmentation
 
 ## Author
-[Ochirbat Bayanjargal]
+Ochirbat Bayanjargal
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
