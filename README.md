@@ -6,6 +6,10 @@ The main Python file uses Jupyter-style cell notation (`# %%`) to divide the cod
 2. **Cursor**: Open in Cursor to execute code blocks individually 
 3. **PyCharm**: Open in PyCharm with the Jupyter plugin
 
+## Interactive Notebook
+
+For an interactive version of this analysis with step-by-step code execution and visualizations, check out my [Kaggle notebook](https://www.kaggle.com/code/ochirbatbayanjargal/telecom-customer-churn-prediction).
+
 # Telecom Customer Churn Prediction
 
 ## Project Overview
